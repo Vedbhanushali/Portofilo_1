@@ -14,3 +14,7 @@ This project is made only from HTML/CSS to learn and understand core concepts of
 - provide partial border to make 3D effect
 - how to allign using Flex CSS
 - Grid layout overlapping of columns
+
+## LICENSE
+
+[MIT LICENSE](/LICENSE)
